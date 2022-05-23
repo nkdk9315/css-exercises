@@ -1,0 +1,12 @@
+button {
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    border: 4px ridge gainsboro;
+}
+#click {
+    background-color: black;
+    color: white;
+} 
+#not_click {
+    background-color: yellow;
+}
