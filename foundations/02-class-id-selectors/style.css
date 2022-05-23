@@ -1,0 +1,21 @@
+.pink {
+    background-color: pink;
+}
+.normal {
+    font-size: 23px;
+}
+#one {
+    color: blue;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+#another {
+    background-color: palegreen;
+    font-weight: bold;
+    font-size: 29px;
+}
+
+.cooler {
+    font-size: 32px;
+}
